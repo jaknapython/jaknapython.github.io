@@ -27,3 +27,4 @@ if (odpoved === "a") {
 	alert("Špatně! :-(");
 }
 alert("Máš správně " + spravne + " otázek a špatně " + (3 - spravne) + " otázek.")
+window.location.replace("lekce02.html")
